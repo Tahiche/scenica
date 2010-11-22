@@ -1,0 +1,5 @@
+user: admin
+pass: qwerty
+
+DB: 3DSdb
+user & passw: wordpress
